@@ -19,7 +19,7 @@ const Sidebar = () => {
       <Link to="/">
         <img
           //   src="http://wp.alithemes.com/html/nest/demo/assets/imgs/theme/logo.svg"
-          src="https://seeklogo.com/images/E/ecommerce-host-logo-16DE6E3D80-seeklogo.com.png"
+          src="https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/279092917_2871845096451906_8821620375334053829_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGY1lsg2Rc9C1Pfbmr8eWDa9EJIQKhRIDr0QkhAqFEgOqliv53sWGQK2VqtKrdtApeu93yI1B9eSTBnrTar_oX4&_nc_ohc=gZdEdNgQsZUAX-ljeBK&_nc_ht=scontent.fdac8-1.fna&oh=00_AT-uhPk9Wps_27ur0xZU-xZBp10GdAdnouTz6e8fgLCubw&oe=6275C9E9"
           alt="Ecommerce"
         />
       </Link>
