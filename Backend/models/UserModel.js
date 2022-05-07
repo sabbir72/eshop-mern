@@ -75,7 +75,6 @@ userSchema.methods.getResetToken = function () {
     .createHash("sha256")
     .update(resetToken)
     .digest("hex");
-
   this.resetPasswordTime = Date.now() + 15 * 60 * 1000;
 
   return resetToken;
